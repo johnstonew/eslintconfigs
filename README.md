@@ -12,3 +12,8 @@ Optional if it doesn't work
 ```
 npm install eslint-plugin-tailwindcss
 ```
+
+Settings.json should be placed in the folder 
+```
+.vscode/settings.json
+```
